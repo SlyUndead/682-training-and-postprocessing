@@ -218,7 +218,3 @@ Structured annotation list (JSON)
 ```
 
 ---
-
-## License
-
-Specify your license here.
